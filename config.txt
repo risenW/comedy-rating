@@ -1,0 +1,1 @@
+{"description": "This file holds all confguration settings for the current project", "basepath": "/home/dsn/personal/ML/comedy-rating", "datapath": "/home/dsn/personal/ML/comedy-rating/data", "outputpath": "/home/dsn/personal/ML/comedy-rating/outputs", "modelpath": "/home/dsn/personal/ML/comedy-rating/outputs/models"}
